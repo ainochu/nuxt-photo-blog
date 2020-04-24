@@ -1,0 +1,26 @@
+{
+  "name": "nuxt-blogger",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "dependencies": {
+    "nuxt": "^2.12.2",
+    "tachyons": "^4.11.1",
+    "tachyons-clears": "^3.0.4",
+    "tachyons-display": "^5.0.5",
+    "tachyons-floats": "^3.0.5",
+    "tachyons-font-weight": "^5.0.5",
+    "tachyons-hovers": "^2.5.2",
+    "tachyons-line-height": "^3.0.7",
+    "tachyons-links": "^3.0.11",
+    "tachyons-outlines": "^1.0.4",
+    "tachyons-skins": "^4.1.1",
+    "tachyons-spacing": "^6.0.5",
+    "tachyons-text-align": "^3.1.0",
+    "tachyons-text-transform": "^4.0.6",
+    "tachyons-type-scale": "^6.1.1",
+    "tachyons-typography": "^3.0.5",
+    "tachyons-visibility": "^2.0.6",
+    "tachyons-widths": "^5.2.1"
+  }
+}
