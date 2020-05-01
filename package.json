@@ -1,7 +1,8 @@
 {
   "name": "nuxt-blogger",
   "scripts": {
-    "dev": "nuxt"
+    "dev": "nuxt",
+    "build": "nuxt generate"
   },
   "dependencies": {
     "nuxt": "^2.12.2",
