@@ -26,5 +26,6 @@ export default {
     'tachyons-typography/css/tachyons-typography.min.css',
     'tachyons-visibility/css/tachyons-visibility.min.css',
     'tachyons-hovers/css/tachyons-hovers.min.css',
+    '@/assets/css/main.css'
   ]
 }
