@@ -1,0 +1,16 @@
+.card-full {
+    place-content: center;
+}
+
+.nav-bar {
+    background-color: #fefafa;
+}
+
+.post-title {
+    color: grey;
+    size: 15px;
+}
+
+.card-info {
+    padding: 16px;
+}
