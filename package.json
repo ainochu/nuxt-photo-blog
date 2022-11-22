@@ -5,7 +5,7 @@
     "build": "nuxt generate"
   },
   "dependencies": {
-    "nuxt": "^2.12.2",
+    "nuxt": "^2.15.8",
     "tachyons": "^4.11.1",
     "tachyons-clears": "^3.0.4",
     "tachyons-display": "^5.0.5",
